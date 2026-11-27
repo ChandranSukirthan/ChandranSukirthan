@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.png" width="100%" alt="Hello, I'm Sukirthan Chandrakumar. BSc (Hons) in Information Technology, specializing in Artificial Intelligence." />
+<img src="assets/profile-banner.gif" width="100%" alt="Animated dark blue banner: Hello, I'm Sukirthan Chandrakumar. BSc (Hons) in Information Technology, specializing in Artificial Intelligence." />
 
 <img align="right" src="assets/welcome.gif" width="210" alt="Animated illustration waving hello and saying: Hi! Welcome to my GitHub" />
 
