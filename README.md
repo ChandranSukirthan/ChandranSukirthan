@@ -1,6 +1,6 @@
 <img src="assets/profile-banner.gif" width="100%" alt="Animated dark blue banner: Hello, I'm Sukirthan Chandrakumar. BSc (Hons) in Information Technology, specializing in Artificial Intelligence." />
 
-<img align="right" src="assets/welcome.gif" width="210" alt="Animated illustration waving hello and saying: Hi! Welcome to my GitHub" />
+<a href="assets/github-greeting.mp4"><img align="right" src="assets/github-greeting.gif" width="210" alt="Play Sukirthan’s spoken GitHub greeting" /></a>
 
 ## About me
 
@@ -17,4 +17,12 @@ I am also gaining hands-on experience as a **Full Stack Engineering Intern**:
 
 I enjoy turning ideas into practical projects, especially tools for safer travel, better decisions, and everyday business workflows. You can follow my work in the repositories below.
 
-<!-- Update this introduction as your experience and projects grow. -->
+## Technologies
+
+### 🎨 Frontend & Mobile
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="Expo" width="48" height="48" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
+
+React Native · Expo · Flutter
+
+<!-- Add the other technology groups after Sukirthan provides his confirmed list. -->
