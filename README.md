@@ -1,8 +1,12 @@
+<img src="assets/profile-banner.png" width="100%" alt="Hello, I'm Sukirthan Chandrakumar. BSc (Hons) in Information Technology, specializing in Artificial Intelligence." />
+
 <img align="right" src="assets/welcome.gif" width="210" alt="Animated illustration waving hello and saying: Hi! Welcome to my GitHub" />
 
-# Hi, I'm Sukirthan 👋
+## About me
 
-I'm a **Full Stack Engineering Intern** interested in building useful mobile apps and AI powered tools.
+I am an IT undergraduate specializing in Artificial Intelligence, passionate about AI, Machine Learning, and full-stack development. I am currently seeking an AI/ML Engineering Internship to apply my skills, gain real-world experience, and grow as an AI/ML engineer.
+
+I am also gaining hands-on experience as a **Full Stack Engineering Intern**:
 
 - 📱 Working with **React Native, Expo, Flutter, and backend APIs**.
 - 🛍️ Gaining hands-on experience with a **retail POS application**.
